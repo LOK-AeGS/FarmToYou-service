@@ -13,7 +13,6 @@
 ## 🛠 프로젝트 아키텍쳐
 ![아키텍처](https://github.com/user-attachments/assets/f27ed220-a33c-4925-a5fa-49ba3507cbcf)
 
-
 ---
 
 ## ⚙️ 기술 스택
