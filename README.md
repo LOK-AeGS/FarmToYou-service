@@ -53,7 +53,8 @@
 
 | 메인 페이지 | 씨앗 판매 | 씨앗상세페이지 | 농장대여 |
 |-------------|--------| ----- | ---|
-|  ![Device frame](https://github.com/user-attachments/assets/bb9705f2-534f-487d-9c48-b9e780a069c6)  | ![Device frame-1](https://github.com/user-attachments/assets/c60c6b56-4fd0-47fb-89c6-861fae5efae4)  | ![Device frame](https://github.com/user-attachments/assets/02a0654b-6e95-480d-98dc-f185f138895d) | ![Device frame-3](https://github.com/user-attachments/assets/c04d875d-fc1f-4fa4-8df9-11bb9f8b5755)
+|  ![Device frame](https://github.com/user-attachments/assets/76aa94ec-0a1d-4dcc-99ae-8436585c9dba)| ![Device frame-1](https://github.com/user-attachments/assets/c8265fbe-1418-4424-93ca-a420b0d64581)  | ![Device frame-2](https://github.com/user-attachments/assets/73292f98-d741-478b-9710-7ae798e894fc) | ![Device frame-3](https://github.com/user-attachments/assets/d4914533-40ab-422f-8893-969c260e9b6f)
+
 
 
 ---
