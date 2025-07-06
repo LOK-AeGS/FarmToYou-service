@@ -51,8 +51,9 @@
 
 ## 🖼️ 시연 이미지
 
-| 메인 페이지 | 채팅 | 상세페이지 | 내물품 |
-|-------------|--------| ----- | -----------|
-|   |  |  |
+| 메인 페이지 | 씨앗 판매 | 씨앗상세페이지 | 농장대여 |
+|-------------|--------| ----- | ---|
+|  ![Device frame](https://github.com/user-attachments/assets/bb9705f2-534f-487d-9c48-b9e780a069c6)  | ![Device frame-1](https://github.com/user-attachments/assets/c60c6b56-4fd0-47fb-89c6-861fae5efae4)  | ![Device frame](https://github.com/user-attachments/assets/02a0654b-6e95-480d-98dc-f185f138895d) | ![Device frame-3](https://github.com/user-attachments/assets/c04d875d-fc1f-4fa4-8df9-11bb9f8b5755)
+
 
 ---
